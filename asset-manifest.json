@@ -1,13 +1,16 @@
 {
-  "main.css": "/github-task/static/css/main.4bdb4d47.chunk.css",
-  "main.js": "/github-task/static/js/main.9ac07a27.chunk.js",
-  "main.js.map": "/github-task/static/js/main.9ac07a27.chunk.js.map",
-  "static/js/1.54cb2646.chunk.js": "/github-task/static/js/1.54cb2646.chunk.js",
-  "static/js/1.54cb2646.chunk.js.map": "/github-task/static/js/1.54cb2646.chunk.js.map",
+  "main.css": "/github-task/static/css/main.ff2d8c2b.chunk.css",
+  "main.js": "/github-task/static/js/main.04e830ae.chunk.js",
+  "main.js.map": "/github-task/static/js/main.04e830ae.chunk.js.map",
+  "static/css/1.eb246d28.chunk.css": "/github-task/static/css/1.eb246d28.chunk.css",
+  "static/js/1.9ed11f29.chunk.js": "/github-task/static/js/1.9ed11f29.chunk.js",
+  "static/js/1.9ed11f29.chunk.js.map": "/github-task/static/js/1.9ed11f29.chunk.js.map",
   "runtime~main.js": "/github-task/static/js/runtime~main.19bdbe14.js",
   "runtime~main.js.map": "/github-task/static/js/runtime~main.19bdbe14.js.map",
-  "static/css/main.4bdb4d47.chunk.css.map": "/github-task/static/css/main.4bdb4d47.chunk.css.map",
+  "static/media/index.css": "/github-task/static/media/roboto-latin-900italic.bc833e72.woff",
+  "static/css/main.ff2d8c2b.chunk.css.map": "/github-task/static/css/main.ff2d8c2b.chunk.css.map",
+  "static/css/1.eb246d28.chunk.css.map": "/github-task/static/css/1.eb246d28.chunk.css.map",
   "index.html": "/github-task/index.html",
-  "precache-manifest.6ae0b8334c994d3573229ca65fad2dcb.js": "/github-task/precache-manifest.6ae0b8334c994d3573229ca65fad2dcb.js",
+  "precache-manifest.23e2d34a112ac96624052e08a28b8981.js": "/github-task/precache-manifest.23e2d34a112ac96624052e08a28b8981.js",
   "service-worker.js": "/github-task/service-worker.js"
 }
